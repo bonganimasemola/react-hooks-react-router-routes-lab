@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
+// import Index from "./"
 import NavBar from "./NavBar";
 import Home from "./Home";
 import Actors from "./Actors";
